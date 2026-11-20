@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/turibaru/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/turibaru/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 # The World Today — Thursday 19 November 2026
 
 Entry for the make.fun bounty **news-image-20261119** ($250, closes
@@ -32,3 +36,7 @@ output — see `STATUS.md` for the determinism test.
 - `entry.png` — the front-page image (1024×1024, 843,038 bytes)
 - `LICENSE` — MIT
 - `STATUS.md` — build status and what is still missing for submission
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=r34fvf50&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
